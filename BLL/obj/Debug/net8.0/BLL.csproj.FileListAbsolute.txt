@@ -1,0 +1,16 @@
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\BLL\obj\Debug\net8.0\ref\BLL.dll

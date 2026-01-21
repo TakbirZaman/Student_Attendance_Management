@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\takbir zaman\\desktop\\fall 25-26\\advace programming in .net\\student_attendance\\dal\\interface\\istudentfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\istudentfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\takbir zaman\\desktop\\fall 25-26\\advace programming in .net\\student_attendance\\dal\\ef\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\takbir zaman\\desktop\\fall 25-26\\advace programming in .net\\student_attendance\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\DAL\\Interface\\IStudentFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IStudentFeature.cs",
+              "ToolTip": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\DAL\\Interface\\IStudentFeature.cs",
+              "RelativeToolTip": "DAL\\Interface\\IStudentFeature.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:18:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\DAL\\EF\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\DAL\\EF\\Models\\Attendance.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:01:25.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:43:17.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
