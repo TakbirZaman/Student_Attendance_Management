@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xfThvyJmwRI=",
+  "dgSpecHash": "74dh/v/pYB8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\APIApp\\APIApp.csproj",
+  "projectFilePath": "D:\\Projects\\Student_Attendance_Management\\Student_Attendance_Management\\APIApp\\APIApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Takbir Zaman\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Takbir Zaman\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
