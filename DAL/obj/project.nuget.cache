@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "juiu9uM3/gQ=",
+  "dgSpecHash": "k+CdcDqFB1U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Takbir Zaman\\Desktop\\Fall 25-26\\Advace programming in .net\\Student_Attendance\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\Takbir Zaman\\Desktop\\Student_Attendance_Management\\Student_Attendance_Management\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Takbir Zaman\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Takbir Zaman\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -18,5 +18,7 @@ namespace DAL.EF
 
         public DbSet<Attendance> Attendances { get; set; }
 
+        public DbSet<User> Users { get; set; }
+
+        public DbSet<AuditLog> AuditLogs { get; set; }
     }
-}

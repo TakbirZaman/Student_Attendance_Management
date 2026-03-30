@@ -37,6 +37,16 @@ namespace DAL
 
 
         }
+        public IRepository<User> UserData()
+        {
+            return new UserRepo(db);
+        }
+
+        public IRepository<AuditLog> AuditLogData()
+        {
+            return new AuditLogRepo(db);
+        }
+
         public IStudentFeature StudentAttendance()
         {
             return new StudentRepo(db);

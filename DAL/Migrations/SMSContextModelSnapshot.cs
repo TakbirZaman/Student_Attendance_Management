@@ -108,7 +108,7 @@ namespace DAL.Migrations
                         .IsRequired();
 
                     b.HasOne("DAL.EF.Models.Student", "Student")
-                        .WithMany()
+                        .WithMany("Attendances")
                         .HasForeignKey("SId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -116,6 +116,11 @@ namespace DAL.Migrations
                     b.Navigation("Class");
 
                     b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("DAL.EF.Models.Student", b =>
+                {
+                    b.Navigation("Attendances");
                 });
 #pragma warning restore 612, 618
         }

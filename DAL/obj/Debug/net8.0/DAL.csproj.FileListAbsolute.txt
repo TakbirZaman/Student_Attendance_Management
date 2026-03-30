@@ -13,3 +13,18 @@ C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Atte
 C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
 C:\Users\Takbir Zaman\Desktop\Fall 25-26\Advace programming in .net\Student_Attendance\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\bin\Debug\net8.0\DAL.dll
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.dll
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\Projects\Student_Attendance_Management\Student_Attendance_Management\DAL\obj\Debug\net8.0\ref\DAL.dll
